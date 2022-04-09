@@ -11,7 +11,5 @@ public class calcPlus implements calculate {
             System.out.println("something is wrong");
         }
 
-
-
     }
 }
