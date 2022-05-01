@@ -38,12 +38,6 @@ public class RegisterView extends JDialog{
         return Emailf.getText();
     }
 
-    public static void main(String[] args) {
-        RegisterView r=new RegisterView();
-        r.setVisible(true);
-
-    }
-
     private void createUIComponents() {
         // TODO: place custom component creation code here
     }
